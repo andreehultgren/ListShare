@@ -1,0 +1,20 @@
+node_modules/**/*
+.expo**
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.idea**
+
+
+# macOS
+.DS_Store
+
+# Security files
+*.keystore
+google-services.json
+src/firebaseConfig.tsx
